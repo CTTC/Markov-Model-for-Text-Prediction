@@ -32,5 +32,3 @@ To implement the code, one can use the following function.
         		}
         		System.out.println("\n----------------------------------");
         }
-For furthur instruction, please refer to 
-https://www.coursera.org/learn/java-programming-design-principles/home/week/3
