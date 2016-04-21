@@ -1,5 +1,5 @@
 # Markov-Model-for-Text-Prediction
-These files are part of a java program to make text prediction based on Markov Model with varing order.
+These files are part of a java project to make text prediction based on Markov Model with varing order.
 It will randomly produce a new character by using the preceding n characters (n is the number of characters to be used as reference, which can be specified by the user).  For the code to work, one need to first feed the code with a String. The algorithm will learn from the string that for each possible combination of consecutive n characters, what characters appear after these n characters. These information is stored in a HashMap.
 
 To implement the code, one can use the following function. 
@@ -32,3 +32,6 @@ To implement the code, one can use the following function.
         		}
         		System.out.println("\n----------------------------------");
         }
+
+# For furthur instruction, please refer to 
+### https://www.coursera.org/learn/java-programming-design-principles/home/week/3
